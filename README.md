@@ -5,4 +5,4 @@ My public speaking slide decks and information.
 |-------|------|----------|------------|-------|
 | Awesome React| 28 September 2016  | Solution forum - FSOFT HCM | ~40 people   | [Link](https://speakerdeck.com/codeaholicguy/awesome-react) |
 | JS Promise the right way | 29 October 2016 | October Ruby Meetup Ho Chi Minh City | ~50 people | [Link](https://speakerdeck.com/codeaholicguy/js-promise-the-right-way) |
-| Optimize ReactJS Application in Real World | 23 August 2018 | ShopBack Event | ~100 people | [Link](http://bit.ly/codeaholicguy_event23082018) |
+| Optimize React application in real world | 23 August 2018 | ShopBack Event | ~100 people | [Link](http://bit.ly/codeaholicguy_event23082018) |
